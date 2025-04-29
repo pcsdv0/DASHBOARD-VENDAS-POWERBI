@@ -71,19 +71,13 @@ python gerar_dados.py
 
 O script vai gerar 500 vendas fictícias e inseri-las automaticamente no banco MySQL.
 
+
 ### 3. Conecte o Power BI ao MySQL
 Abra `GRÁFICOS.pbix` no Power BI Desktop e selecione:
 
 Obter Dados -> Banco de Dados MySQL
 
 Informe os dados da sua conexão e carregue a tabela `vendas`.
-
-
-
-## 🖼️ Exemplo do Dashboard
-
-![Exemplo do Dashboard](./EXEMPLO.png)
-
 
 
 ## 🎯 Objetivo do Projeto
