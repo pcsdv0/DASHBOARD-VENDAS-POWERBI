@@ -1,9 +1,9 @@
 
-# 🎯 Dashboard Interativo de Vendas com Python, MySQL e Power BI
+#  Dashboard Interativo de Vendas com Python, MySQL e Power BI
 
 Projeto desenvolvido por **Paulo César**, estudante de Sistemas de Informação, com foco em soluções que integram **automação de dados, análise e visualização interativa**. Esta aplicação simula um ambiente de vendas reais, integrando **Python**, **MySQL** e **Power BI**, com o objetivo de transformar dados em insights de valor.
 
-## 🚀 Destaques deste Projeto
+##  Destaques deste Projeto
 
 - Integração prática entre Python, MySQL e Power BI
 - Geração automática de dados realistas com a biblioteca Faker
@@ -13,7 +13,7 @@ Projeto desenvolvido por **Paulo César**, estudante de Sistemas de Informação
 
 
 
-## 📂 O que tem neste repositório?
+##  O que tem neste repositório?
 
 - `gerar_dados.py`: Script em Python para gerar 500 registros fictícios de vendas e inserir no MySQL.
 - `GRÁFICOS.pbix`: Arquivo do Power BI com o dashboard interativo e medidas em DAX.
@@ -22,7 +22,7 @@ Projeto desenvolvido por **Paulo César**, estudante de Sistemas de Informação
 
 
 
-## 🛠 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **Power BI Desktop** — Visualização de dados
 - **Python 3.x + Faker** — Geração automática de dados
@@ -32,7 +32,7 @@ Projeto desenvolvido por **Paulo César**, estudante de Sistemas de Informação
 
 
 
-## 📊 Funcionalidades do Dashboard
+## Funcionalidades do Dashboard
 
 - ✅ **Faturamento Total** (soma das vendas)
 - ✅ **Ticket Médio** (valor médio por venda)
@@ -42,7 +42,7 @@ Projeto desenvolvido por **Paulo César**, estudante de Sistemas de Informação
 
 
 
-## 🔄 Como Reproduzir o Projeto
+##  Como Reproduzir o Projeto
 
 ### 1. Configure o MySQL
 Crie o banco de dados e a tabela `vendas` com o seguinte comando:
@@ -80,7 +80,7 @@ Obter Dados -> Banco de Dados MySQL
 Informe os dados da sua conexão e carregue a tabela `vendas`.
 
 
-## 🎯 Objetivo do Projeto
+##  Objetivo do Projeto
 
 Este projeto foi criado com fins **educacionais e profissionais**, e é ideal para:
 
@@ -89,6 +89,6 @@ Este projeto foi criado com fins **educacionais e profissionais**, e é ideal pa
 - Criar visualizações úteis para **tomada de decisão em vendas**
 
 
-📬 **Este projeto demonstra minha capacidade de integrar dados e gerar insights visuais com foco em negócios. Estou aberto a oportunidades de estágio, parceria ou projetos. Entre em contato!**
+ **Este projeto demonstra minha capacidade de integrar dados e gerar insights visuais com foco em negócios. Estou aberto a oportunidades de estágio, parceria ou projetos. Entre em contato!**
 
-🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/pcsdv) ou veja outros projetos no meu [GitHub](https://github.com/pcsdv0).
+🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/paulocvasconcelos) ou veja outros projetos no meu [GitHub](https://github.com/pcsdv0).
